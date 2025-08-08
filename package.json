@@ -1,0 +1,23 @@
+{
+  "name": "backend-todo-list",
+  "version": "1.0.0",
+  "description": "Este es mi backend de mi proyecto todo-list, hecha por Lisandro Gabriel Lopez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MG5Gabri/backend-Todo-list.git"
+  },
+  "author": "MG5Gabri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MG5Gabri/backend-Todo-list/issues"
+  },
+  "homepage": "https://github.com/MG5Gabri/backend-Todo-list#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
